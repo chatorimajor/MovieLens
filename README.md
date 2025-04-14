@@ -34,10 +34,3 @@ This project was completed as part of a university assignment focused on data vi
 
 ---
 
-## 📬 Contact
-
-Created by [Your Name]  
-Feel free to reach out or connect on [LinkedIn](#) or [GitHub](https://github.com/yourusername)
-
----
-
